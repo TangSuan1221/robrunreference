@@ -1,0 +1,17 @@
+# Generated analysis output and downloaded dependencies
+/out/
+/tools/bin/
+/tools/pylib/
+/tools/sdist/
+/tools/wheels/
+/%SystemDrive%/
+
+# Temporary rendering tests and Python caches
+/_t*.md
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.env
+.env.*
+!.env.example
