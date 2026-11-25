@@ -4,6 +4,9 @@
 /tools/pylib/
 /tools/sdist/
 /tools/wheels/
+/.tmp/
+/_search.txt
+/.git-probe/
 /%SystemDrive%/
 
 # Temporary rendering tests and Python caches
